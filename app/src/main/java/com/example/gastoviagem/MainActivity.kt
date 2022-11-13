@@ -43,6 +43,4 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         binding.textTotalValue.setText(totalValueStr)
   }
 
-    fun teste(view: View) {}
-
-}
+ 
